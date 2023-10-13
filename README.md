@@ -1,4 +1,4 @@
-# Board ver.1 개인 프로젝트
+# Board ver.1 CRUD
 
 ## ✔️ 목차
 1. 요구사항
